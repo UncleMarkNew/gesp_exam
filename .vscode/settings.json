@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "Python": {
+            "path": "gespvenv\\Scripts\\activate.bat",
+            "args": []
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Python"
+}

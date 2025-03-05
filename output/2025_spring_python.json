@@ -1,0 +1,26 @@
+{
+  "name": "2025年春季Python考试",
+  "questions": [
+    {
+      "type": "single_choice",
+      "text": "以下哪个不是Python的基本数据类型？",
+      "correct_answer": "array",
+      "options": [
+        "int",
+        "float",
+        "string",
+        "array"
+      ]
+    },
+    {
+      "type": "true_false",
+      "text": "Python是一门编译型语言。",
+      "correct_answer": "false"
+    },
+    {
+      "type": "programming",
+      "text": "请编写一个函数，计算斐波那契数列的第n项。",
+      "correct_answer": "def fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)"
+    }
+  ]
+}
